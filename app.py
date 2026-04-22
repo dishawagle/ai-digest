@@ -7,7 +7,7 @@ import json
 import os
 import requests
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime
 import streamlit as st
 import google.generativeai as genai
 
