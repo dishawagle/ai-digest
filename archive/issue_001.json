@@ -1,0 +1,37 @@
+{
+  "issue_number": 1,
+  "week_of": "April 20, 2026",
+  "generated_at": "2026-04-20T12:37:58.951532",
+  "status": "approved",
+  "items": [
+    {
+      "title": "Gemma 4: Byte for byte, the most capable open models",
+      "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+      "link": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+      "authors": "Google DeepMind",
+      "date": "Thu, 02 Ap",
+      "source": "Google DeepMind",
+      "summary_plain": "Google DeepMind has released Gemma 4, their latest series of open models purpose-built for advanced reasoning and agentic workflows. This announcement positions Gemma 4 as their most intelligent open model to date, boasting superior capability per byte.",
+      "pm_takeaway": "Product managers should pay attention to Gemma 4, especially if building features that require sophisticated AI agents or complex reasoning capabilities within an open-source framework. Its focus on efficiency and advanced reasoning could open new possibilities for automating multi-step tasks or powering more intelligent user experiences with better performance-to-cost ratios. Consider evaluating its fit for automating complex internal workflows or enhancing customer-facing intelligent assistants.",
+      "relevance": "Watch",
+      "relevance_reason": "This release brings significant advancements in open models for agentic workflows and efficient reasoning, warranting ongoing evaluation for future product integrations.",
+      "approved": true,
+      "edited": true
+    },
+    {
+      "title": "The next evolution of the Agents SDK",
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "authors": "OpenAI",
+      "date": "Wed, 15 Ap",
+      "source": "OpenAI",
+      "summary_plain": "OpenAI's Agents SDK has received a significant update. This evolution introduces native sandbox execution and a model-native harness, designed to help developers build secure, long-running agents across various files and tools.",
+      "pm_takeaway": "For product managers, this update signals that more robust and autonomous AI agent features are becoming feasible within your products. Your engineering teams will soon be able to build agents that can handle multi-step tasks more securely and reliably. Consider how future product iterations could leverage these agents to automate complex workflows or reduce user effort significantly.",
+      "relevance": "Skip",
+      "relevance_reason": "Included for completeness \u2014 lower priority this week.",
+      "approved": true,
+      "edited": true
+    }
+  ],
+  "approved_at": "2026-04-20T12:45:06.094660"
+}
